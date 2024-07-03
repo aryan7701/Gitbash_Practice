@@ -1,1 +1,2 @@
-This is mmy second repository file: A
+This is my second repository file: A
+This is my second repository file: B
